@@ -3,7 +3,7 @@
 ### 🚀 A Passionate Computer Science Engineering Student from MIT Kundapura
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manisheng2004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MANISH-Kun&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -12,10 +12,10 @@
 
 I'm a **third-year Computer Science Engineering** student with a strong passion for software development. I have a keen interest in **full-stack development**, **game development**, and **3D modeling**. I love exploring new technologies, building engaging projects, and continuously learning new skills.
 
-- 🔭 **Currently working on:** [StreamVerse](https://github.com/yourusername/StreamVerse) - A movie and TV shows platform built with React.js, Redux-Toolkit, and Node.js.
+- 🔭 **Currently working on:** [StreamVerse](https://github.com/MANISH-Kun/StreamVerse) - A movie and TV shows platform built with React.js, Redux-Toolkit, and Node.js.
 - 🌱 **Learning:** Exploring **Unreal Engine** and **Blender** for game development and 3D modeling.
 - 💬 **Ask me about:** **React.js**, **Node.js**, **JavaScript**, **Unreal Engine**, **Blender**, and **Flutter**.
-- 📫 **Reach me:** [manisheng2004@gmail.com](mailto:manisheng2004@gmail.com)
+- 📫 **Reach me:** [manisheng2004git@gmail.com](mailto:manisheng2004git@gmail.com)
 
 ---
 
@@ -47,29 +47,29 @@ I'm a **third-year Computer Science Engineering** student with a strong passion 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manisheng2004&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisheng2004&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MANISH-Kun&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-Kun&layout=compact&theme=radical" alt="Top languages" />
 </div>
 
 ---
 
 ### 🚀 GitHub Activity
 
-[![Manish's Activity Graph](https://activity-graph.herokuapp.com/graph?username=manisheng2004&bg_color=ffffff&color=0084ff&line=0084ff&point=00c7ff&area=true)](https://github.com/manisheng2004)
+![Manish's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MANISH-Kun&bg_color=ffffff&color=0084ff&line=0084ff&point=00c7ff&area=true)
 
 ---
 
 ### 💼 Connect with Me
 
-- 📧 **Email:** [manisheng2004@gmail.com](mailto:manisheng2004@gmail.com)
+- 📧 **Email:** [manisheng2004git@gmail.com](mailto:manisheng2004git@gmail.com)
 - 🌐 **LinkedIn:** [Manish's LinkedIn](https://www.linkedin.com/in/your-profile-link)
-- 🌐 **GitHub:** [Manish's GitHub](https://github.com/manisheng2004)
+- 🌐 **GitHub:** [Manish's GitHub](https://github.com/MANISH-Kun)
 
 ---
 
 ### 📈 My Contribution to Open Source
 
-[![Manish's Open Source Contributions](https://github.com/manisheng2004/manisheng2004/blob/main/assets/github-contributions.svg)](https://github.com/manisheng2004)
+![Manish's Open Source Contributions](https://github.com/MANISH-Kun/MANISH-Kun/blob/main/assets/github-contributions.svg)
 
 ---
 
