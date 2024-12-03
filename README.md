@@ -44,19 +44,10 @@ I'm a **third-year Computer Science Engineering** student with a strong passion 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANISH-Kun&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-Kun&layout=compact&theme=radical" alt="Top languages" />
-</div>
-
----
-
 ### 💼 Connect with Me
 
 - 📧 **Email:** [manisheng2004git@gmail.com](mailto:manisheng2004git@gmail.com)
-- 🌐 **LinkedIn:** [Manish's LinkedIn](https://www.linkedin.com/in/your-profile-link)
+
 - 🌐 **GitHub:** [Manish's GitHub](https://github.com/MANISH-Kun)
 
 ---
