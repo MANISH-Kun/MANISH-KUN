@@ -53,23 +53,11 @@ I'm a **third-year Computer Science Engineering** student with a strong passion 
 
 ---
 
-### 🚀 GitHub Activity
-
-![Manish's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MANISH-Kun&bg_color=ffffff&color=0084ff&line=0084ff&point=00c7ff&area=true)
-
----
-
 ### 💼 Connect with Me
 
 - 📧 **Email:** [manisheng2004git@gmail.com](mailto:manisheng2004git@gmail.com)
 - 🌐 **LinkedIn:** [Manish's LinkedIn](https://www.linkedin.com/in/your-profile-link)
 - 🌐 **GitHub:** [Manish's GitHub](https://github.com/MANISH-Kun)
-
----
-
-### 📈 My Contribution to Open Source
-
-![Manish's Open Source Contributions](https://github.com/MANISH-Kun/MANISH-Kun/blob/main/assets/github-contributions.svg)
 
 ---
 
