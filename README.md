@@ -12,7 +12,7 @@
 
 I'm a **third-year Computer Science Engineering** student with a strong passion for software development. I have a keen interest in **full-stack development**, **game development**, and **3D modeling**. I love exploring new technologies, building engaging projects, and continuously learning new skills.
 
-- 🔭 **Currently working on:** [fiym](https://github.com/MANISH-Kun/fiym) - A movie and TV shows platform built with React.js, Redux-Toolkit, and Node.js.
+- 🔭 **Currently working on:** [fiym](https://github.com/MANISH-Kun/) - A movie and TV shows platform built with React.js, Redux-Toolkit, and Node.js.
 - 🌱 **Learning:** Exploring **Unreal Engine** and **Blender** for game development and 3D modeling.
 - 💬 **Ask me about:** **React.js**, **Node.js**, **JavaScript**, **Unreal Engine**, **Blender**, and **Flutter**.
 - 📫 **Reach me:** [manisheng2004git@gmail.com](mailto:manisheng2004git@gmail.com)
