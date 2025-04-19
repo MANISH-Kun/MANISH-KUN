@@ -12,9 +12,8 @@
 
 I'm a **third-year Computer Science Engineering** student with a strong passion for software development. I have a keen interest in **full-stack development**, **game development**, and **3D modeling**. I love exploring new technologies, building engaging projects, and continuously learning new skills.
 
-- 🔭 **Currently working on:** [fiym](https://github.com/MANISH-Kun/) - A movie and TV shows platform built with React.js, Redux-Toolkit, and Node.js.
-- 🌱 **Learning:** Exploring **Unreal Engine** and **Blender** for game development and 3D modeling.
-- 💬 **Ask me about:** **React.js**, **Node.js**, **JavaScript**, **Unreal Engine**, **Blender**, and **Flutter**.
+- 🌱 **Learning:** Exploring **Python** for automation and various software development tasks.
+- 💬 **Ask me about:** **React.js**, **Node.js**, **JavaScript**, **Flutter**, and **Python**.
 - 📫 **Reach me:** [manisheng2004git@gmail.com](mailto:manisheng2004git@gmail.com)
 
 ---
@@ -23,6 +22,7 @@ I'm a **third-year Computer Science Engineering** student with a strong passion 
 
 #### **Languages & Frameworks:**
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -32,10 +32,6 @@ I'm a **third-year Computer Science Engineering** student with a strong passion 
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-#### **Game Development & 3D Modeling:**
-- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white)
-- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 #### **Design:**
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
