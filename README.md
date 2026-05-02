@@ -1,77 +1,56 @@
-<h1 align="center">Manish</h1>
-<p align="center">
-  <i>Final Year Computer Science Engineer • Full Stack Developer • Builder</i>
-</p>
+# 💫 Hi, I'm Manish 👋
+
+### 🚀 A Passionate Computer Science Engineering Student from MIT Kundapura
 
 <p align="center">
-  <a href="mailto:manisheng2004git@gmail.com">Email</a> •
-  <a href="https://github.com/MANISH-Kun">GitHub</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MANISH-Kun&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=MANISH-Kun&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### About
+### 🌟 About Me
 
-I build software that people actually enjoy using.
+I'm a **final-year Computer Science Engineering** student with a strong passion for software development. I have a keen interest in **full-stack development**, **game development**, and **3D modeling**. I love exploring new technologies, building engaging projects, and continuously learning new skills.
 
-Currently in my final year of Computer Science Engineering, I focus on crafting clean, functional, and visually engaging applications. I enjoy working across the stack and experimenting with ideas that combine logic, design, and interactivity.
-
-Lately, I’ve been exploring automation with Python and pushing my skills in building scalable and polished products.
-
----
-
-### What I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,flutter,mysql,firebase,git,figma,tailwind,bootstrap" />
-</p>
+- 🌱 **Learning:** Exploring **Python** for automation and various software development tasks.
+- 💬 **Ask me about:** **React.js**, **Node.js**, **JavaScript**, **Flutter**, and **Python**.
+- 📫 **Reach me:** [manisheng2004git@gmail.com](mailto:manisheng2004git@gmail.com)
 
 ---
 
-### Current Focus
+### 🛠️ Tech Stack
 
-- Building full stack applications with better UI/UX
-- Writing cleaner and more maintainable code
-- Exploring automation and scripting with Python
-- Experimenting with interactive and 3D experiences
+#### **Languages & Frameworks:**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
----
+#### **Backend & Tools:**
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Selected Projects
-
-> You can pin your best repositories here to make this section stronger
-
-- Full Stack Web Apps using React and Node
-- Cross-platform apps with Flutter
-- Automation tools built with Python
-- UI-focused frontend projects with Tailwind
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANISH-Kun&show_icons=true&hide_border=true&bg_color=00000000&title_color=0e75b6&icon_color=0e75b6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MANISH-Kun&hide_border=true&background=00000000&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
-</p>
+#### **Design:**
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
-### Philosophy
+### 💼 Connect with Me
 
-I care about building things that are simple, useful, and well designed.
+- 📧 **Email:** [manisheng2004git@gmail.com](mailto:manisheng2004git@gmail.com)
 
-Not just writing code, but creating experiences.
+- 🌐 **GitHub:** [Manish's GitHub](https://github.com/MANISH-Kun)
 
 ---
 
-<p align="center">
-  <i>Open to opportunities and collaborations</i>
-</p>
+### 🎯 My Vision
+
+I am passionate about creating software that makes an impact. As I continue my journey as a developer, I am focusing on **problem-solving**, **innovative design**, and **user-centric development**. Let's build the future together!
+
+can i get latest modern ui like a profesional , use high visually stunning things, images, etc ,all should be latest and work well dont use and depreciatedones, etc so cook the best read me , and also i dont want others to think its fully ai avoid those dashes things , cook the best readme file ever dude use full powerr
+
