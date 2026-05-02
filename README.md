@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 
-I'm a **third-year Computer Science Engineering** student with a strong passion for software development. I have a keen interest in **full-stack development**, **game development**, and **3D modeling**. I love exploring new technologies, building engaging projects, and continuously learning new skills.
+I'm a **final-year Computer Science Engineering** student with a strong passion for software development. I have a keen interest in **full-stack development**, **game development**, and **3D modeling**. I love exploring new technologies, building engaging projects, and continuously learning new skills.
 
 - 🌱 **Learning:** Exploring **Python** for automation and various software development tasks.
 - 💬 **Ask me about:** **React.js**, **Node.js**, **JavaScript**, **Flutter**, and **Python**.
